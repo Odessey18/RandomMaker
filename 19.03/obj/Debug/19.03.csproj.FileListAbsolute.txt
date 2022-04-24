@@ -1,0 +1,30 @@
+C:\Users\Vasya\source\repos\19.03\19.03\bin\Debug\19.03.exe.config
+C:\Users\Vasya\source\repos\19.03\19.03\bin\Debug\19.03.exe
+C:\Users\Vasya\source\repos\19.03\19.03\bin\Debug\19.03.pdb
+C:\Users\Vasya\source\repos\19.03\19.03\obj\Debug\19.03.csproj.AssemblyReference.cache
+C:\Users\Vasya\source\repos\19.03\19.03\obj\Debug\_19._03.Form1.resources
+C:\Users\Vasya\source\repos\19.03\19.03\obj\Debug\_19._03.Properties.Resources.resources
+C:\Users\Vasya\source\repos\19.03\19.03\obj\Debug\19.03.csproj.GenerateResource.cache
+C:\Users\Vasya\source\repos\19.03\19.03\obj\Debug\19.03.csproj.CoreCompileInputs.cache
+C:\Users\Vasya\source\repos\19.03\19.03\obj\Debug\19.03.exe
+C:\Users\Vasya\source\repos\19.03\19.03\obj\Debug\19.03.pdb
+E:\19.03\19.03\bin\Debug\19.03.exe.config
+E:\19.03\19.03\bin\Debug\19.03.exe
+E:\19.03\19.03\bin\Debug\19.03.pdb
+E:\19.03\19.03\obj\Debug\19.03.csproj.AssemblyReference.cache
+E:\19.03\19.03\obj\Debug\_19._03.Form1.resources
+E:\19.03\19.03\obj\Debug\_19._03.Properties.Resources.resources
+E:\19.03\19.03\obj\Debug\19.03.csproj.GenerateResource.cache
+E:\19.03\19.03\obj\Debug\19.03.csproj.CoreCompileInputs.cache
+E:\19.03\19.03\obj\Debug\19.03.exe
+E:\19.03\19.03\obj\Debug\19.03.pdb
+E:\Рандомайзер рофлянок\19.03\bin\Debug\19.03.exe.config
+E:\Рандомайзер рофлянок\19.03\bin\Debug\19.03.exe
+E:\Рандомайзер рофлянок\19.03\bin\Debug\19.03.pdb
+E:\Рандомайзер рофлянок\19.03\obj\Debug\19.03.csproj.AssemblyReference.cache
+E:\Рандомайзер рофлянок\19.03\obj\Debug\_19._03.Form1.resources
+E:\Рандомайзер рофлянок\19.03\obj\Debug\_19._03.Properties.Resources.resources
+E:\Рандомайзер рофлянок\19.03\obj\Debug\19.03.csproj.GenerateResource.cache
+E:\Рандомайзер рофлянок\19.03\obj\Debug\19.03.csproj.CoreCompileInputs.cache
+E:\Рандомайзер рофлянок\19.03\obj\Debug\19.03.exe
+E:\Рандомайзер рофлянок\19.03\obj\Debug\19.03.pdb
